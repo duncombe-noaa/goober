@@ -19,3 +19,6 @@ Add some lines, make a comment or two.
 
 To see what `rebase` does we'll 
 build in some changes and then branch. More changes  in  the upstream tree, and more in the branch. Then rebase and apply the changes.
+
+This is the second branching. We'l change this file and another one. 
+
