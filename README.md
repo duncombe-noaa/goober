@@ -11,9 +11,8 @@ Add some lines, make a comment or two.
 
 ## And add a subtree for testing
 
- A directory created, a few files added.
 
-
+A directory created, a few files added.
 
 ## Planning to Rebase
 
@@ -23,3 +22,8 @@ build in some changes and then branch. More changes  in  the upstream tree, and 
 This is the second branching. We'll change this file and another one. 
 
 These changes will conflict with changes on the second branch! Watch out!
+
+## Testing releases
+
+
+Getting ready to make a new release
