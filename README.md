@@ -10,3 +10,4 @@ We make a change here, under duncombe/goober
 Add some lines, make a comment or two.
 
 
+Getting ready to make a new release
