@@ -38,3 +38,6 @@ Icon
 # other files
 *.swp
 
+
+# python files
+.ipynb_checkpoints/
