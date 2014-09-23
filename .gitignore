@@ -31,13 +31,21 @@ Icon
 # Thumbnails
 ._*
 
+
 # Files that might appear on external disk
+
 .Spotlight-V100
 .Trashes
 
+
 # other files
+
 *.swp
 
 
 # python files
 .ipynb_checkpoints/
+
+# GMT files
+# gmt.history
+
