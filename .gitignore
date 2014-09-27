@@ -47,5 +47,7 @@ Icon
 .ipynb_checkpoints/
 
 # GMT files
-# gmt.history
+gmt.history
+.gmtcommands
+.gmtcommands4
 
