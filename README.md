@@ -27,3 +27,7 @@ These changes will conflict with changes on the second branch! Watch out!
 
 
 Getting ready to make a new release
+
+So now we try a new thing, adding a ine hreer to make a commit."
+
+
